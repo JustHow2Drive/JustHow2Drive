@@ -6,5 +6,3 @@ I have practical experience with cloud platforms like AWS and VPS, as well as co
 Beyond software development, I have a strong interest in hardware, including PC building and microcontroller programming with Arduino and Raspberry Pi. I prioritize effective planning, time management, and a systematic approach to problem-solving.
 I am committed to continuous learning, exploring fields such as artificial intelligence, machine learning, and blockchain technology. I actively contribute to open-source projects and engage with the developer community through workshops, meetups, and educational content.
 I welcome collaboration opportunities and enjoy sharing knowledge with others to contribute to impactful projects.
-
----
